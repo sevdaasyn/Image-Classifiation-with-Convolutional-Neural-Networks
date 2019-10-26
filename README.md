@@ -12,7 +12,7 @@ Transfer learning by using CNNs and how to train a network for a specific proble
 
 ### COMMON FUNCTIONS
 
-` eval_model(vgg, criterion) __
+` eval_model(vgg, criterion) <br/>
 	used in part_2 
 train_model(model, criterion, optimizer, scheduler, num_epochs) 
 	used in part_2, part_3 
